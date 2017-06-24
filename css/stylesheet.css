@@ -404,7 +404,7 @@ a:hover {
 }
 @media screen and (min-width: 960px) {
   .progect-image img {
-    width: 920px !important;
+    width: 1200px !important;
     height: 629px !important;
   }
 }
